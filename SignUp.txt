@@ -107,3 +107,5 @@ Simeon Davenport
   1. Cafeteria
   2. Facility
   3. Alternative energy/heat generation
+  
+  Jacob Heinrich: 1. Marketing 2. Web Development 3. Networking
